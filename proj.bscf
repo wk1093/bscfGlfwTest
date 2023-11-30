@@ -1,0 +1,4 @@
+TARGET EXEC test ALL
+
+BUILTIN glfw
+DEPEND test glfw
